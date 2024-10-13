@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @shaikhFaris
+- 👋 Hi, I’m Faris
 - 👀 I’m interested in programming and building cool stuff.
 - 🌱 I’m currently learning data structures and algorithms.
 - 📫 How to reach me - linkedin or X
