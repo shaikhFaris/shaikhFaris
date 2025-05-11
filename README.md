@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning data structures and algorithms.
 - 📫 How to reach me - linkedin or X
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: javascript and java are the same.
+- ⚡ Fun fact: AI will take your job.
 
 
 
